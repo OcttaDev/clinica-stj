@@ -1,0 +1,118 @@
+@media only screen and (min-width: 1000px){
+  /* .nav{
+     display: none;
+  } */
+  .locations{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+      height: 70vh;
+      width: 50%;
+      gap: 10px;
+      margin: auto;
+      
+  }
+  .location-sume{
+      width: 50%;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50%;
+  }
+  .location-sb{
+      width: 50%;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50%;
+  }
+}
+@media only screen and (min-width: 750px) and (max-width:1000px){
+  .responsive{
+      width: 90%;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content:center;
+      gap: 20px;
+  }
+  .locations{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+      height: 70vh;
+      width: 100%;
+      gap: 10px;
+      margin: auto;
+      margin-top: 10px;
+      
+  }
+  .location-sume{
+      width: 100%;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+  }
+  .location-sb{
+      width: 100%;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+  }
+  #img{
+      display: none;
+  }
+}
+@media only screen and (min-width: 250px) and (max-width:750px){
+  .responsive{
+      width: 90%;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content:center;
+      gap: 20px;
+  }
+  .locations{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+      height: 70vh;
+      width: 100%;
+      gap: 10px;
+      margin: auto;
+      margin-top: 30px;
+      
+  }
+  .location-sume{
+      width: 100%;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+      height: 100%;
+  }
+  .location-sb{
+      width: 100%;
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+      height: 100%;
+  }
+  #img{
+      display: none;
+  }
+}
