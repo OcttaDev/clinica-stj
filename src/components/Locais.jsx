@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import '../../../responsive.css'
+import '../responsive.css'
 import Nav from "./Nav/Nav";
 
 import LocationSume from './pages/Locais/maps/Sume/MapSume'
