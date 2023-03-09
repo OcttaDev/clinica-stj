@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
-import Icon from '../../../assets/secundsBg.png'
-import '../../../responsive.css'
+import Icon from '../assets/secundsBg.png'
+import '../responsive.css'
 import Nav from './Nav/Nav'
 
 import AOS from 'aos';

@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import Nav from "./Nav/Nav";
-import "../../../responsive.css";
+import "../responsive.css";
 
 
 import { IoHeadsetOutline } from "react-icons/io5";

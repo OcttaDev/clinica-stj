@@ -1,9 +1,9 @@
 import { useEffect } from 'react';
 import '../../../responsive.css'
-import Nav from "../../Nav/Nav";
+import Nav from "./Nav/Nav";
 
-import LocationSume from './maps/Sume/MapSume'
-import LocationSb from './maps/SB/MapSb'
+import LocationSume from './pages/Locais/maps/Sume/MapSume'
+import LocationSb from './pages/Locais/maps/SB/MapSb'
 
 
 import AOS from 'aos';
