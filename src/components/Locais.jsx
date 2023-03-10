@@ -19,7 +19,7 @@ function Locais() {
     <div className="flex justify-center my-18 responsive" data-aos="fade-down">
       <div className="max-w-[600px] m-auto" data-aos="fade-up-right">
         <h1 className="text-green-800 text-3xl font-bold mb-5">
-          Venha agendar seu horario presencialmente em uma de nossas clinicas
+          Agende seu horario presencialmente em uma de nossas clínicas
         </h1>
         <Nav
           firstRoute="/"
